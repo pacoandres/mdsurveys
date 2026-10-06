@@ -6,6 +6,8 @@ With this project we are trying to develop an online voting system based on the 
 To archieve this the email addresses are stored with a deterministic Hash function (SHA-256).
 Clearly, someone with access to the database who knew the email addresses of all potential participants could compromise anonymity. This is something we will aim to address in future releases.
 
+<big>**This is a fork of [mlsurvey](https://github.com/menos-lectivas-tech/mlsurvey) at release 1.0 as the original project changes to a very specific requirements**</big>
+
 # Installation
 
 ## Manual installation
